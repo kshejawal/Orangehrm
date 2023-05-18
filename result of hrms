@@ -1,0 +1,28 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 111.0.5563.64 (c710e93d5b63b7095afe8c2c17df34408078439d-refs/branch-heads/5563@{#995}) on port 44020
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1683081021.477][WARNING]: This version of ChromeDriver has not been tested with Chrome version 112.
+May 03, 2023 8:00:21 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 112, so returning the closest version found: 110
+PASSED: myinfo
+PASSED: LoginHRMS
+PASSED: Custom_Fields
+PASSED: attchments
+PASSED: personal_deatils
+
+===============================================
+    Default test
+    Tests run: 5, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 5, Passes: 5, Failures: 0, Skips: 0
+===============================================
